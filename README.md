@@ -1,7 +1,7 @@
-- 👋 Oi Saulo aqui.
-- 👀 Estou interessado em TypeScript / Angular / React / NestJs / Postgres / MySql / NodeJs / C# /  GAMES etc.
-- 🌱 Atualmente tenho focado em React e React Native mas nas por diversão eu estudo sobre desenvolvimento de jogos com a Unity também.
-- 💞️ Tenho interesse em me aprofundar mais nessa área.
+- 👋 Olá, eu sou Saulo. Sou um desenvolvedor que gosta do que faz. 
+- 💪 Skills: TypeScript / Angular / React / NestJs / Postgres / MySql / NodeJs / C# 
+- 🌱 Atualmente: Focado em React e React Native.
+- 👀 Futuro: me especializar ainda mais no que já faço e também aprender AWS ou AZURE.
 - 📫 Você pode me encontrar em:
     - [Linkedin](https://www.linkedin.com/in/sauloaramos/)
     - [Email: sauloramosjunior@hotmail.com](mailto:sauloramosjunior@hotmail.com)
