@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sauloramosjr
-- 👀 I’m interested in TypeScript / Angular / React / NestJs / Postgres / MySql / NodeJs / C# /  GAMES etc.
-- 🌱 I’m currently learning about Game development with Unity.
-- 💞️ I'm looking to collaborate with Game development
-- 📫 How to reach me:
-    - [@SauloRamos](https://www.linkedin.com/in/sauloaramos/)
-    - [sauloramosjunior@hotmail.com](mailto:sauloramosjunior@hotmail.com)
+- 👋 Oi Saulo aqui.
+- 👀 Estou interessado em TypeScript / Angular / React / NestJs / Postgres / MySql / NodeJs / C# /  GAMES etc.
+- 🌱 Atualmente tenho focado em React e React Native mas nas por diversão eu estudo sobre desenvolvimento de jogos com a Unity também.
+- 💞️ Tenho interesse em me aprofundar mais nessa área.
+- 📫 Você pode me encontrar em:
+    - [Linkedin](https://www.linkedin.com/in/sauloaramos/)
+    - [Email: sauloramosjunior@hotmail.com](mailto:sauloramosjunior@hotmail.com)
 
 <!---
 sauloramosjr/sauloramosjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
